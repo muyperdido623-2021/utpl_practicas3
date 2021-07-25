@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+<body>
+    <form action='registro.php' method='post'>
+    <h1>Pagina de ingreso</h1>
+        <p>Empresa </p>
+        <input type="text" name="empresa" placeholder="Ingrese el nombre de su empresa" style="width: 300px;" >
+        <p>Usuario </p>
+        <input type="text" name="usuario" placeholder="Ingrese el usuario" style="width: 300px;" >
+        <p>Contraseña </p>
+        <input type="password" name="contrasenia" placeholder="Ingrese la contraseña" style="width: 300px;" >
+        <p> </p>
+        <input type="submit" name="Enviar" style="margin:auto; width: 150px; height: 40px;">
+        <input type="reset" value="Borrar" style="margin:auto; width: 150px; height: 40px;">
+    </form>
+    <?php
+    include("registro.php");
+    ?>
+
+
+  </body>
+</html>

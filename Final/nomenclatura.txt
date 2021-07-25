@@ -1,0 +1,46 @@
+Establecer nomenclatura nombres de paginas y elementos
+
+id principal: campo general
+empresa_
+personal_
+sector_
+actividades_
+formacion_
+tecnologias_
+
+id secundario: campo específico
+empresa_antig
+empresa_taman
+empresa_serv
+empresa_difer
+empresa_ubica
+empresa_capit
+empresa_factu
+
+personal_total
+personal_nivel
+
+sector_sector
+
+actividades_tics
+actividades_desa
+
+formacion_neces
+formacion_estra
+
+tecnologias_front
+tecnologias_back
+tecnologias_frame
+tecnologias_infra
+
+id terciario: tipo de grafico
+empresa_antig_p
+empresa_antig_b
+
+
+La UTPL consciente de la importancia de conocer el estado actual del sector empresarial tecnológico y como un aporte a la sociedad ecuatoriana ha tomado la tarea de recabar información para conocer cuales son las necesidades de dicho sector y hacia donde se encuentran orientadas sus perspectivas de crecimiento.
+Para acceder a la información del proyecto y su resultados por favor suscribase o inicie sesión si ya posee un usuario. Muchas gracias
+
+
+conocer más a fondo este proyecto 
+La información ha sido obtenida mediante la aplicación de una encuesta diseñada por el área de investigación de la carrera en INGENIERIA INFORMÁTICA y que fue aplicada a diversas empresas del sectorcon objetivo de tener  por ello presentamos  
