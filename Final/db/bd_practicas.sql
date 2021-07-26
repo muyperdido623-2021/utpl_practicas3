@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: localhost
--- Tiempo de generación: 29-05-2021 a las 05:39:11
+-- Tiempo de generación: 26-07-2021 a las 05:38:41
 -- Versión del servidor: 10.4.19-MariaDB
 -- Versión de PHP: 7.3.28
 
@@ -327,6 +327,17 @@ INSERT INTO `infraestructura_despliegue` (`Infraestructura`, `Empresas`) VALUES
 ('IaaS', 12),
 ('BaaS', 4),
 ('FaaS', 3);
+
+-- --------------------------------------------------------
+
+--
+-- Estructura de tabla para la tabla `login`
+--
+
+CREATE TABLE `login` (
+  `usuario` text NOT NULL,
+  `passwd` text NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- --------------------------------------------------------
 
